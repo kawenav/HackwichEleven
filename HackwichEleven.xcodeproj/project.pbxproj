@@ -15,6 +15,7 @@
 		75BE6BBB2913A704002F2EEC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 75BE6BB92913A704002F2EEC /* LaunchScreen.storyboard */; };
 		75BE6BC62913A704002F2EEC /* HackwichElevenTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 75BE6BC52913A704002F2EEC /* HackwichElevenTests.swift */; };
 		75BE6BD12913A704002F2EEC /* HackwichElevenUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 75BE6BD02913A704002F2EEC /* HackwichElevenUITests.swift */; };
+		75BE6BDF2913ACAA002F2EEC /* Restaurant.swift in Sources */ = {isa = PBXBuildFile; fileRef = 75BE6BDE2913ACAA002F2EEC /* Restaurant.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		75BE6BCC2913A704002F2EEC /* HackwichElevenUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HackwichElevenUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		75BE6BD02913A704002F2EEC /* HackwichElevenUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HackwichElevenUITests.swift; sourceTree = "<group>"; };
 		75BE6BD22913A704002F2EEC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		75BE6BDE2913ACAA002F2EEC /* Restaurant.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Restaurant.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				75BE6BAE2913A703002F2EEC /* AppDelegate.swift */,
 				75BE6BB02913A703002F2EEC /* SceneDelegate.swift */,
 				75BE6BB22913A703002F2EEC /* ViewController.swift */,
+				75BE6BDE2913ACAA002F2EEC /* Restaurant.swift */,
 				75BE6BB42913A703002F2EEC /* Main.storyboard */,
 				75BE6BB72913A704002F2EEC /* Assets.xcassets */,
 				75BE6BB92913A704002F2EEC /* LaunchScreen.storyboard */,
@@ -258,6 +261,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				75BE6BDF2913ACAA002F2EEC /* Restaurant.swift in Sources */,
 				75BE6BB32913A703002F2EEC /* ViewController.swift in Sources */,
 				75BE6BAF2913A703002F2EEC /* AppDelegate.swift in Sources */,
 				75BE6BB12913A703002F2EEC /* SceneDelegate.swift in Sources */,
